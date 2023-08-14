@@ -30,42 +30,42 @@ There were multiple questions that was tasked with answering.  Each of these que
 1) List the employee number, last name, first name, sex, and salary of each employee.
 View : employee_data
 
-![image](<Data/Images/Employee_Data.png>)
+![image](<data/Images/Employee_Data.png>)
 
 2) List the first name, last name, and hire date for the employees who were hired in 1986.
 View : employee_hire_1986
 
-![image](<Data/Images/Employee_Hire_1986.png>)
+![image](<data/Images/Employee_Hire_1986.png>)
 
 3) List the manager of each department along with their department number, department name, employee number, last name, and first name.
 View : department_manager_data
 
-![image](<Data/Images/department_manager_data.png>)
+![image](<data/Images/department_manager_data.png>)
 
 4) List the department number for each employee along with that employee’s employee number, last name, first name, and department name.
 View : department_employee_data
 
-![image](<Data/Images/department_employee_data.png>)
+![image](<data/Images/department_employee_data.png>)
 
 5) List first name, last name, and sex of each employee whose first name is Hercules and whose last name begins with the letter B.
 View : EmployeeName_data
 
-![image](<Data/Images/Employee_Name_Data.png>)
+![image](<data/Images/Employee_Name_Data.png>)
 
 6) List each employee in the Sales department, including their employee number, last name, and first name.
 View : Sales_Department_employees
 
-![image](<Data/Images/Sales_Department_Employees.png>)
+![image](<data/Images/Sales_Department_Employees.png>)
 
 7) List each employee in the Sales and Development departments, including their employee number, last name, first name, and department name.
 View : Sales_Development_employees
 
-![image](<Data/Images/Sales_Development_Employees.png>)
+![image](<data/Images/Sales_Development_Employees.png>)
 
 8) List the frequency counts, in descending order, of all the employee last names (that is, how many employees share each last name).
 View : frequency_employee_lastnames
 
-![image](<Data/Images/Frequency_Employee_Lastnames.png>)
+![image](<data/Images/Frequency_Employee_Lastnames.png>)
 
 # Contributing
 Erika Walker
