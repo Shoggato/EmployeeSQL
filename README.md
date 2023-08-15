@@ -7,7 +7,6 @@
 - [Data_Engineering](#Data_Engineering)
 - [Data_analysis](#Data_Analysis)
 - [Questions](#Questions)
-- [Data_analysis](#Data_Analysis)
 - [Contributing](#contributing)
 
 
@@ -23,7 +22,7 @@ Utilizing the six CSV files, I made an Entity Relationship Diagram (ERD) for Pew
 # Data_Engineering
 Using the ERD I then created a table schema for each of the six CSV files.  I specified the Data Types, Primary Keys, and Foreign keys.  Each Table was created so that the following tables would be able to utilize the Primary Keys as Foreign Keys.
 
-# Data Analysis
+# Data_Analysis
 There were multiple questions that was tasked with answering.  Each of these questions were saved as a 'Views' in my database EmployeeSQL for Pewlett Hackard.
 
 # Questions
